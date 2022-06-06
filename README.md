@@ -3,11 +3,11 @@ Portfolio of Machine Learning Projects by Nick Just
 
 
 ## Computer Vision Project - Object Detection 
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
+* Applied detection and classification of moving objects (Computer Vision) using self-developed Deep Neural Networks (CNN, R-CNN) on self-recorded pictures and videos
 * Scraped over 1000 job descriptions from glassdoor using python and selenium
 * Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
+* Implementation of the algorithms in Python using Tensorflow, Keras and OpenCV 
 
 You can access to it **HERE**
 
