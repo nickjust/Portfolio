@@ -2,12 +2,11 @@
 Portfolio of Machine Learning Projects by Nick Just
 
 
-## Computer Vision Project - Object Detection 
-* Applied detection and classification of moving objects (Computer Vision) using self-developed Deep Neural Networks (CNN, R-CNN) on self-recorded pictures and videos
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Implementation of the algorithms in Python using Tensorflow, Keras and OpenCV 
+## Computer Vision Project - R-CNN for object detection and motion tracking
+* Applied detection and classification of moving objects (Computer Vision) using self-developed Deep Neural Networks (CNN, R-CNN)
+* Self-generated and manually labeled dataset of the individual object to be identified 
+* Implementation in Python using Tensorflow, Keras and OpenCV 
+* Extension of the algorithm to recognise the object (remote controlled car) both in individual pictures and videos in order to track its movement
 
 You can access to it **HERE**
 
