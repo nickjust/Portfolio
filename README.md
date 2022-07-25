@@ -11,7 +11,7 @@ Portfolio of Machine Learning Projects by Nick Just
 * Extension of the algorithm to recognise the object (remote controlled car) both in individual pictures and videos in order to track its movement
 
 <p align="center">
-  <img src="CV_project/Detection_picture.png">
+  <img src="images/Detection_picture.png">
 </p>
 
 You can access to it **[HERE](https://nickjust.github.io/RCNN_object_detection/)**
@@ -26,5 +26,9 @@ You can access to it **[HERE](https://nickjust.github.io/RCNN_object_detection/)
 * Implementation in Python using the libraries Tensorflow, Keras and Librosa 
 * Quantitative comparison and evaluation of both neural networks by 3-fold speaker independent cross validation, average evaluation metric scores (Precision, Recall, F1-Score, Accuracy)  confusion matrix and statistical t-Test analysis
 * Achieved a classification accuracy of over 85% on average for both models
+
+<p align="center">
+  <img src="images/comparison_boxplot.PNG">
+</p>
 
 You can access to it **[HERE](https://nickjust.github.io/ASR_command_words/)**
