@@ -1,9 +1,11 @@
 # Nick_Just_Portfolio
 Portfolio of Machine Learning Projects by Nick Just
 
-### Paper overview
+
 
 ## Paper - Recognizing Phases in Batch Production via Interactive Feature Extraction (in progress)
+
+### Paper overview
 
 * Feature extraction and pattern recognition in multivariate time series data (industrial processes) for identifying different manufacturing procedures with unsupervised learning and human interaction
 * Developed a Multilevel Clustering Algorithm applying K-Means and K-Medoids as well as self-supervised LSTM-Autoencoder for dimensionality reduction and implemented it in Python using the libraries scikit-learn, Tensorflow, tslearn and scikit-learn-extra. 
