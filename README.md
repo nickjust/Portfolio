@@ -28,7 +28,7 @@ You can access to it **[HERE](https://nickjust.github.io/RCNN_object_detection/)
 * Achieved a classification accuracy of over 85% on average for both models
 
 <p align="center">
-  <img src="images/comparison_boxplot.PNG">
+  <img src="images/comparison_boxplot.PNG" width=300>
 </p>
 
 You can access to it **[HERE](https://nickjust.github.io/ASR_command_words/)**
