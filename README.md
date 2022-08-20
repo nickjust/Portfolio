@@ -1,6 +1,3 @@
-Portfolio of Machine Learning Projects by Nick Just
-
-
 ## Research Paper - Recognizing Phases in Batch Production via Interactive Feature Extraction (in progress)
 
 ### Paper overview
