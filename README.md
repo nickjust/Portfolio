@@ -4,8 +4,10 @@
 
 * Feature extraction and pattern recognition in multivariate time series data (industrial processes) for identifying different manufacturing procedures with unsupervised learning and human interaction
 * Developed a Multilevel Clustering Algorithm applying K-Means and K-Medoids as well as self-supervised LSTM-Autoencoder for dimensionality reduction and implemented it in Python using the libraries scikit-learn, Tensorflow, tslearn and scikit-learn-extra. 
-* Enabled visual inspection and user interaction through a self-developed Guide User Interface, which facilitates the user to interactively select areas of interest based on the extracted shape features and incorporate domain knowledge with less effort.
+* Enabled visual inspection and user interaction through a self-developed GUI, which facilitates the user to interactively select areas of interest based on the extracted shape features and incorporate domain knowledge with less effort.
 * Evaluations of the algorithm with statistical metrics showed, that phases were successfully identified (margin of only 2 to 3 time points) based on the extracted patterns with minor human interaction.
+
+You can access the paper **[HERE](https://ieeexplore.ieee.org/document/10092982)**
 
 ## [Natural Language Processing Project - Automatic Speech Recognition of command words with CNN and RNN-LSTM](https://nickjust.github.io/ASR_command_words/)
 
