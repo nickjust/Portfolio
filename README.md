@@ -1,4 +1,4 @@
-## Research Paper - Recognizing Phases in Batch Production via Interactive Feature Extraction
+## [Research Paper - Recognizing Phases in Batch Production via Interactive Feature Extraction](https://ieeexplore.ieee.org/document/10092982)
 
 ### Paper overview
 
